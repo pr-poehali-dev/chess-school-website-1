@@ -42,7 +42,7 @@ const Index = () => {
           <button onClick={() => scrollTo('hero')} className="flex items-center gap-2">
             <span className="text-2xl">♟️</span>
             <span className="font-display font-extrabold text-lg gradient-text">
-              Шах и матка 21
+              Шах & матика 21
             </span>
           </button>
           <nav className="hidden md:flex items-center gap-8 text-sm font-semibold text-foreground/70">
@@ -192,7 +192,7 @@ const Index = () => {
         <div className="container flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-muted-foreground">
           <div className="flex items-center gap-2">
             <span className="text-xl">♟️</span>
-            <span className="font-display font-bold text-foreground">Шах и матка 21</span>
+            <span className="font-display font-bold text-foreground">Шах и матика 21</span>
           </div>
           <p>© 2026 Шахматная школа. Все права защищены.</p>
         </div>
